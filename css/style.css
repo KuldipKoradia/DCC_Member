@@ -237,8 +237,6 @@ img{
     margin: 0;
     width: auto;
     min-width: auto;
-    left: auto !important;
-    right: 0;
 }
 .dropdown-menu li .dropdown-item {
     display: flex;
